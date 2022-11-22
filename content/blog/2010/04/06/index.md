@@ -2,6 +2,7 @@
 title: Hidden not Forgotten
 date: "2010-04-06"
 tags: [design, furnitures, fashion]
+thumbnail: "./hidden1.jpg"
 description: Hidden not forgotten is a table with 5 tabletops in one,  with option to expand in four directions.
 ---
 ![Hidden not Forgotten](./hidden1.jpg)

@@ -30,13 +30,10 @@ const Layout = props => {
                 <Link to={`/`}>Home</Link>
               </li> */}
               <li className="nav-about" role="menuitem">
-                <Link to={`/om`}>Om</Link>
+                <Link to={`/om`}>About</Link>
               </li>
-              {/* <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
-              </li> */}
               <li className="nav-tags" role="menuitem">
-                <Link to={`/tags`}>Taggar</Link>
+                <Link to={`/tags`}>Tags</Link>
               </li>
             </ul>
           </nav>
@@ -64,7 +61,7 @@ const Layout = props => {
                 Twitter
               </a>
               <Link
-                to={`/`}
+                to={`/rss.xml`}
                 title="RSS"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -90,13 +87,13 @@ const Layout = props => {
       </main>
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Byggd av {" "}
+        Created by {" "}
         { <a
-          href="https://twitter.com/JayKay137"
+          href="https://www.infinity-it.se/"
           target="_blank"
           rel="noopener noreferrer"
         >
-         JayKay
+         Infinity-IT
         </a> }
       </footer>
     </div>

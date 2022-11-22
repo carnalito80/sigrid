@@ -2,6 +2,7 @@
 title: ESKIMO
 date: "2010-04-10"
 tags: [design, furnitures, fashion]
+thumbnail: "./eskimo1.jpg"
 description: The Eskimo collection was presented in Salone Satellite in Milan 2010.  The collection includes a chair and a sideboard, both covered in quilted upholstery. The acoustic door panels of the sideboard are soft and flexible and stay up with magnets. The sound-reducing element is a built-in function, not an after thought
 ---
 ![Eskimo](./eskimo1.jpg)
