@@ -1,5 +1,5 @@
 ---
-title: Still Life and Collage Cabinet 
+title: Still Life and Collage Cabinet for Ex.t 
 date: "2011-09-19"
 tags: [design, furnitures, fashion]
 description: Still Life and Collage cabinet is produced by the Italian bathroom brand Ex.t.
